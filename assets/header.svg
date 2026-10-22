@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">461821624</title>
+  <desc id="desc">把想法做成可以使用的产品</desc>
+  <rect width="1200" height="320" rx="20" fill="#101c2c"/>
+  <path d="M824 0v320M904 0v320M984 0v320M1064 0v320M1144 0v320M784 80h416M784 160h416M784 240h416" stroke="#20354b" fill="none"/>
+  <rect x="54" y="48" width="36" height="5" rx="2" fill="#75e0c0"/>
+  <g font-family="Segoe UI, Microsoft YaHei, sans-serif">
+    <text x="54" y="137" font-size="68" font-weight="700" letter-spacing="5" fill="#f3f6fa">461821624</text>
+    <text x="58" y="193" font-size="25" fill="#c5d0dd">把想法做成可以使用的产品</text>
+    <text x="58" y="265" font-size="13" letter-spacing="3" fill="#75e0c0">WEB  /  DESKTOP  /  DEVELOPER TOOLS</text>
+  </g>
+  <rect x="866" y="69" width="238" height="144" rx="12" fill="#16283d" stroke="#75e0c0" stroke-width="2"/>
+  <rect x="884" y="87" width="202" height="108" rx="5" fill="#203951"/>
+  <path d="m918 161 39-42 31 27 26-21 38 36" fill="none" stroke="#75e0c0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M985 215v28m-37 0h74" fill="none" stroke="#c5d0dd" stroke-width="3" stroke-linecap="round"/>
+</svg>
